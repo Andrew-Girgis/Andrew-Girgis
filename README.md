@@ -73,7 +73,7 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 [![Website](https://img.shields.io/badge/Website-andrew--girgis.com-orange?style=flat&logo=chrome)](https://andrew-girgis.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Andrew_girgis@hotmail.com)
 
-🚀 Always open to **collaborations, new opportunities, and data-driven discussions!**
+🚀 Always open to **collaborations, and new opportunities!**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
