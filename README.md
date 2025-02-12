@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Andrew+Girgis!;Data+Scientist+|+AI+Enthusiast+|+Aspiring+Tech+Entrepreneur)](https://git.io/typing-svg)
+
 # Hi, I'm Andrew Girgis! 👋
 
 🚀 **Data Analyst | AI Enthusiast | Aspiring Tech Entrepreneur**
