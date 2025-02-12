@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Andrew+Girgis!;Data+Scientist+|+AI+Enthusiast+|+Aspiring+Tech+Entrepreneur&height=80&width=1500&font=Montserrat&multiline=true&duration=4000&size=48&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Andrew+Girgis!;Data+Scientist+|+AI+Enthusiast+|+Aspiring+Tech+Entrepreneur&height=150&width=1500&font=Montserrat&multiline=true&duration=4000&size=48&repeat=false)](https://git.io/typing-svg)
 
 # Hi, I'm Andrew Girgis! 👋
 
