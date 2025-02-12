@@ -18,6 +18,14 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrew-girgis/andrew-girgis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrew-girgis/andrew-girgis/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/andrew-girgis/andrew-girgis/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 AI Cover Letter Generator (In Progress)
