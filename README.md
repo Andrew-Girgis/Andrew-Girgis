@@ -65,6 +65,7 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 - 🌱 **Sustainability & EVs** – Passionate about **clean energy & electric vehicles**
 - 🏎️ **Car Enthusiast** – Always exploring automotive tech & design
 - ⚽ **Sports** – Enjoy playing **soccer & volleyball** in my free time
+- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; **Anime**
 
 ---
 
