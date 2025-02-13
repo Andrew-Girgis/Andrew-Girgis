@@ -68,8 +68,7 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 - 🎓 **Learning from YouTube** – Whether it’s AI, coding, economics, or random rabbit holes, YouTube is a go-to for leveling up my knowledge
 - 🎬 **Anime** - Big anime fan! Favourites include **Jujutsu Kaisen, Solo Leveling, and Hells Paradise**
 
-<img src="https://img.icons8.com/?size=100&id=hL3PqwLhIJcz&format=png&color=000000" width="75">&nbsp;
-<img src="https://img.icons8.com/?size=100&id=IOCQZ9xhxVbg&format=png&color=FFFFFF" width="75">&nbsp;
+<img src="cargif.gif" width="75">&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; 
 ---
