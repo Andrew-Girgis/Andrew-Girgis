@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Andrew+Girgis!;Data+Scientist+|+AI+Enthusiast+|+Aspiring+Tech+Entrepreneur&height=150&width=1500&font=Press+Start+2P&multiline=true&duration=4000&size=32&repeat=true&pause=0&color=007BFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Andrew+Girgis!;Data+Scientist+|+AI+Enthusiast;Aspiring+Tech+Entrepreneur&height=150&width=1500&font=Press+Start+2P&multiline=true&duration=4000&size=32&repeat=true&pause=500&color=007BFF)](https://git.io/typing-svg)
 
 Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation in **econometrics, data analytics, and machine learning**. My background in **Economics (MA) and Applied Computing** allows me to approach challenges with both technical and analytical rigor. I’m passionate about **AI, electric vehicles, and sustainability**, and I aim to build innovative tech solutions in these spaces.
 
