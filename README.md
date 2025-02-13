@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Andrew+Girgis!;Data+Scientist+|+AI+Enthusiast+|+Aspiring+Tech+Entrepreneur&height=150&width=1500&font=Montserrat&multiline=true&duration=4000&size=48&repeat=false&pause=0&color=007BFF)](https://git.io/typing-svg)
-
-# Hi, I'm Andrew Girgis! 👋
-
-🚀 **Data Analyst | AI Enthusiast | Aspiring Tech Entrepreneur**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Andrew+Girgis!;Data+Scientist+|+AI+Enthusiast+|+Aspiring+Tech+Entrepreneur&height=150&width=1500&font=Press+Start+2P&multiline=true&duration=4000&size=48&repeat=true&pause=0&color=007BFF)](https://git.io/typing-svg)
 
 Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation in **econometrics, data analytics, and machine learning**. My background in **Economics (MA) and Applied Computing** allows me to approach challenges with both technical and analytical rigor. I’m passionate about **AI, electric vehicles, and sustainability**, and I aim to build innovative tech solutions in these spaces.
 
@@ -55,7 +51,7 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-girgis&layout=compact&theme=light" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-girgis&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
