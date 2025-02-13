@@ -68,8 +68,10 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 
 ## 📫 Connect with Me
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewagirgis)
-[![Website](https://img.shields.io/badge/Website-andrew--girgis.com-orange?style=flat&logo=chrome)](https://andrew-girgis.com)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andrew-girgis.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Andrew_girgis@hotmail.com)
 
 🚀 Always open to **collaborations, and new opportunities!**
