@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 - 🔗 [GitHub Repo Coming Soon]
 
 ### 🔹 Financial Forecasting for EV Stocks
-- Predicts the **average future price of EV stocks** using econometric modeling & machine learning
+- Predicts the **average future price of EV stocks** using econometric modeling & time series analytics
 - Features **data cleaning, visualization, and predictive analytics**
 - 🏆 Developed as part of a broader exploration of sustainable tech investments
 - 🔗 [Website](https://andrew-girgis.com/researchpaper.html)
