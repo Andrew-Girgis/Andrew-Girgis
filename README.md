@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 
 - 🎓 **Graduate Student** at the University of Waterloo (MA in Economics, Computational Data Analytics)
 - 🎓 **Research Assistant** at the University of Waterloo researching urban development and economic activity using local census data
-- 🏢 **FinTech Intern** at CTFE | Centre for Technology and Finance Education (helping professionals upskill in a world of AI)
+- 🏢 **FinTech Analyst** at CTFE | Centre for Technology and Finance Education (helping professionals upskill in a world of AI)
 - 🏢 **Business Development Associate** at FN Immersive Innovation (helping higher education & career firms)
 - 🤖 **AI Developer** – Working on a **Resume & Cover Letter Generator** using RAG & LangChain
 - 📊 **Data Science Enthusiast** – Passionate about data visualization, econometrics, and machine learning
