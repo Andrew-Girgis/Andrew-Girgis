@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 
 ## 🔍 About Me
 
-- 🎓 **Graduate Student** at the University of Waterloo (MA in Economics, Computational Data Analytics)
+- 🎓 **Master's Graduate** from the University of Waterloo (Economics & Computational Data Analytics)
 - 🎓 **Research Assistant** at the University of Waterloo researching urban development and economic activity using local census data
 - 🏢 **FinTech Analyst** at CTFE | Centre for Technology and Finance Education (helping professionals upskill in a world of AI)
 - 🏢 **Business Development Associate** at FN Immersive Innovation (helping higher education & career firms)
