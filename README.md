@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 - 🏆 **UW CxC Hackathon 2025 Participant** – Analyzed machine learning applications in business cases to improve operations
 - 🏆 **Rotman Datathon 2025 Participant** – Analyzed economic trends & supply chain dynamics using real world data
 - 💻 **Tech Stack**: Python, R, SQL, JavaScript, Power BI, Stata, Git
-- 🌱 **Currently Learning**: Langchain, Node.js, GitHub, and deeper applications of AI in business
+- 🌱 **Currently Learning**: Langchain, Node.js, React, Typescript, Machine Learning Libraries
 
 ---
 
