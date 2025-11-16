@@ -8,13 +8,9 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 
 - 🎓 **Master's Graduate** from the University of Waterloo (Economics & Computational Data Analytics)
 - 🎓 **Research Assistant** at the University of Waterloo researching urban development and economic activity using local census data
-- 🏢 **FinTech Analyst** at CTFE | Centre for Technology and Finance Education (helping professionals upskill in a world of AI)
-- 🏢 **Business Development Associate** at FN Immersive Innovation (helping higher education & career firms)
-- 🤖 **AI Developer** – Working on a **Resume & Cover Letter Generator** using RAG & LangChain
-- 📊 **Data Science Enthusiast** – Passionate about data visualization, econometrics, and machine learning
-- 🏆 **UW CxC Hackathon 2025 Participant** – Analyzed machine learning applications in business cases to improve operations
-- 🏆 **Rotman Datathon 2025 Participant** – Analyzed economic trends & supply chain dynamics using real world data
-- 💻 **Tech Stack**: Python, R, SQL, JavaScript, Power BI, Stata, Git
+- 🏢 **Data Analyst** at Quartermaster Inc (helping homeowners connect with the best local pros)
+- 📊 **Data Science Enthusiast** – Passionate about machine learning, econometrics, and data visualization
+- 💻 **Tech Stack**: Python, R, SQL, JavaScript, Tableau, Stata
 - 🌱 **Currently Learning**: Langchain, Node.js, React, Typescript, Machine Learning Libraries
 
 ---
@@ -29,10 +25,10 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Resume & Cover Letter Generator (In Progress)
-- A **RAG-based** application integrating **LangChain** with personal data sources (resume, LinkedIn, Projects)
-- Helps users generate **tailored resumes** and ideas for **cover letters** using AI customization
-- 🔗 [GitHub Repo Coming Soon]
+### 🔹 Personal Finance Tracker
+- Python application using pytesseract OCR and machine learning to convert e-statements into structured data.
+- Enables detailed tracking of spending habits and provides insights to help optimize personal finances.
+🔗 GitHub repo coming soon
 
 ### 🔹 Financial Forecasting for EV Stocks
 - Predicts the **average future price of EV stocks** using econometric modeling & time series analytics
