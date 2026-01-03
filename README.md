@@ -10,8 +10,8 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 - 🎓 **Research Assistant** at the University of Waterloo researching urban development and economic activity using local census data
 - 🏢 **Data Analyst** at Quartermaster Inc (helping homeowners connect with the best local pros)
 - 📊 **Data Science Enthusiast** – Passionate about machine learning, econometrics, and data visualization
-- 💻 **Tech Stack**: Python, R, SQL, JavaScript, Tableau, Stata
-- 🌱 **Currently Learning**: Langchain, Node.js, React, Typescript, Machine Learning Libraries
+- 💻 **Tech Stack**: Python, R, SQL, Tableau
+- 🌱 **Currently Learning**: Langchain, React, Typescript, Machine Learning Libraries
 
 ---
 
