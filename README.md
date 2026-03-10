@@ -34,7 +34,6 @@ Welcome to my GitHub! I'm a data-driven problem solver with a strong foundation 
 - Predicts the **average future price of EV stocks** using econometric modeling & time series analytics
 - Features **data cleaning, visualization, and predictive analytics**
 - Developed as part of a broader exploration of sustainable tech investments
-- 🔗 [Website](https://andrew-girgis.com/researchpaper.html)
 
 ### 🔹 Power BI Survey Dashboard (NRC IRAP)
 - Built a **Power BI dashboard** to analyze company-wide survey data
