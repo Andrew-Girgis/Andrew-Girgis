@@ -26,7 +26,7 @@ AI-powered ETL pipeline ingesting and structuring budget data across 3,696 Canad
 
 - Designed for nationwide coverage  
 - Converts unstructured documents into structured datasets  
-- Built for Build Canada  
+- Built for @BuildCanada  
 
 [Repo](https://github.com/Andrew-Girgis/Municipalities-Budget-Scraper)
 
