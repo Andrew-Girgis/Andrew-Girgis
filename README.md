@@ -102,4 +102,4 @@ LinkedIn: [in/andrewagirgis/](https://www.linkedin.com/in/andrewagirgis/)
 
 Website: [andrew-girgis.com](https://andrew-girgis.com/)
 
-Email: [Email](mailto:andrew_girgis@hotmail.com)
+Email: [andrew_girgis@hotmail.com](mailto:andrew_girgis@hotmail.com)
