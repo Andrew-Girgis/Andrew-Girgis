@@ -100,6 +100,6 @@ AI systems, GIS, electric vehicles, and the intersection of software and the phy
 
 LinkedIn: [in/andrewagirgis/](https://www.linkedin.com/in/andrewagirgis/)
 
-Website: [andrew-girgis.com](https://girg.is)
+Website: [girg.is](https://girg.is)
 
 Email: [andrew_girgis@hotmail.com](mailto:andrew_girgis@hotmail.com)
